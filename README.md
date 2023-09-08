@@ -1,1 +1,12 @@
 # DistributedSystems
+- Отчет [пр_01](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_1_01_NikolaevaSG.pdf)
+- Отчет [пр_01-2](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_1_02_NikolaevaSG.pdf)
+- Отчет [пр_02](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_02_NikolaevaSG.pdf)
+- Отчет [пр_04_01](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_4_01_NikolaevaSG.ipynb)
+- Отчет [пр_04_02](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_04_02_NikolaevaSG.ipynb)
+- Отчет [пр_03](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_03_NikolaevaSG.pdf)
+- Отчет [пр_03_02](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_03_02_NikolaevaSG.pdf)
+- Отчет [дз_01](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_homework_1_NikolaevaSG.pdf)
+- Отчет [пр_05_01](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_5_01_NikolaevaSG.pdf)
+- Отчет [пр_05_02](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_5_02_NikolaevaSG.pdf)
+- Отчет [пр_06](https://github.com/SofiaNikolaeva-adey-201/Big-Data-Storage-and-Processing-Tools/blob/main/BDSAPT_pr_6_NikolaevaSG.pdf)
